@@ -1,6 +1,6 @@
 # fateme mosaee
 - [PNU_3991_AR](https://github.com/fatememosaee/PNU_3991_AR/)
-- [Resume](https://fatememosaee.github.io/fateme/) 
+- [Resume](https://fatememosaee.github.io/Resume.EN/) 
 - [SOP](https://fatememosaee.github.io/sop/)
 - [GitHub](https://github.com/fatememosaee)
 -----------------
