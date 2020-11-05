@@ -19,3 +19,64 @@
     1. [_UID-14_پرديس پارچه باف شوقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/14_%D9%BE%D8%B1%D8%AF%D9%8A%D8%B3%20%D9%BE%D8%A7%D8%B1%DA%86%D9%87%20%D8%A8%D8%A7%D9%81%20%D8%B4%D9%88%D9%82%D9%8A)
 
     1. [_UID-38_فاطمه عابدینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/38_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86%D9%8A)
+
+-----------
+## روز و ساعت ارائه دروس
+
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ></th>
+     <th ></th>
+     <th></th>
+     <th></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مدیریت پروژه نرم افزاری</a></th>
+     <th ></th>
+     <th></th>
+     <th>پنج شنبه</th>
+  </tr>
+</table>
