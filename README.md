@@ -77,6 +77,7 @@
      <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مدیریت پروژه نرم افزاری</a></th>
      <th ></th>
      <th></th>
+     <th></th>
      <th>پنج شنبه</th>
   </tr>
 </table>
