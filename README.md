@@ -1,4 +1,4 @@
-<img src="https://photo_2020-11-05_18-53-46"/>
+<img src=""file:///C:/Users/hp/Downloads/Telegram%20Desktop/photo_2020-11-05_18-53-46.jpg/>
 
 # fateme mosaee
 - [PNU_3991_AR](https://github.com/fatememosaee/PNU_3991_AR/)
