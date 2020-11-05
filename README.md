@@ -26,7 +26,7 @@
 <table style="width:100%">
   <tr>
     <th >16-18</th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مدیریت پروژه نرم افزاری</a>/th>
+    <th >/th>
     <th >12-14</th>
     <th>10-12</th>
     <th>8-10</th>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <th ></th>
-    <th ></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مدیریت پروژه نرم افزاری</a></th>
     <th ></th>
     <th></th>
     <th></th>
