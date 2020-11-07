@@ -3,6 +3,7 @@
 - [Resume](https://fatememosaee.github.io/Resume.EN/) 
 - [SOP](https://fatememosaee.github.io/sop/)
 - [GitHub](https://github.com/fatememosaee)
+- [js](https://github.com/fatememosaee/PNU_3991_AR/blob/fateme/soloLearn.jpg)
 -----------------
 
 1. G-U01
