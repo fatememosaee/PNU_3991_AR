@@ -12,7 +12,7 @@
 
 
 ------------------
-##اعضای گروه 
+## اعضای گروه
 1. G-U01
     1. [_UID-65_فاطمه موسایی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/65_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%D8%A6%D9%8A%20%D8%A7%D8%BA%D8%AC%D9%87%20%D9%83%D9%87%D9%84) 
      1. [_UID1-61_فاطمه مرادي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/61_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A) 
