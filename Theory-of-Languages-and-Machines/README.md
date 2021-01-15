@@ -2,8 +2,10 @@
 ---
 
 <br>
+
 # ارائه شفاهی دو مساله از منابع دیگر با لاتک
 - [ارائه شفاهی دو مثال با لاتک](https://www.aparat.com/v/iEpVw)
+
 - [beamer.tex](https://github.com/fatememosaee/PNU_3991_AR/blob/fateme/Theory-of-Languages-and-Machines/%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%DB%8C%DB%8C(533-536).pdf)
 
 # ارائه شفاهی یک فصل از کتاب مرجع اصلی درس
