@@ -6,7 +6,7 @@
 # ارائه شفاهی دو مساله از منابع دیگر با لاتک
 - [ارائه شفاهی دو مثال با لاتک](https://www.aparat.com/v/iEpVw)
 
-- [beamer.tex](https://github.com/fatememosaee/PNU_3991_AR/blob/fateme/Theory-of-Languages-and-Machines/%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%DB%8C%DB%8C(533-536).pdf)
+- [pdf](https://github.com/fatememosaee/PNU_3991_AR/blob/fateme/Theory-of-Languages-and-Machines/%D9%86%D9%88%D8%B4%D8%AA%D9%86%20%D8%AF%D9%88%20%D9%85%D8%AB%D8%A7%D9%84%20%D8%A8%D8%A7%20%D9%84%D8%A7%D8%AA%DA%A9.pdf)
 
 # ارائه شفاهی یک فصل از کتاب مرجع اصلی درس
 - [ارائه شفاهی فصل دهم از مرجع اصلی درس](https://www.aparat.com/v/iipVw)
