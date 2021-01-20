@@ -8,9 +8,11 @@
 -----------------
 ## مقطع کارشناسی
 [1115157_02 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/65_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%D8%A6%D9%8A%20%D8%A7%D8%BA%D8%AC%D9%87%20%D9%83%D9%87%D9%84)
-<br>
-
 ------------------
+## ارزیابی
+- [عمومی](https://github.com/fatememosaee/PNU_3991_AR/blob/fateme/_General.zip)
+- [اختصاصی](https://github.com/fatememosaee/PNU_3991_AR/blob/fateme/Theory-of-Languages-and-Machines/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.docx)
+
 ## اعضای گروه
 1. G-L02
     1. [_TLM02-65_فاطمه موسائی اغجه کهل**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/65_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%D8%A6%D9%8A%20%D8%A7%D8%BA%D8%AC%D9%87%20%D9%83%D9%87%D9%84)
